@@ -14,6 +14,11 @@ An alarm clock app shows the current time and allows the user to set an alarm. W
 3. **JavaScript** to handle time and alarm functionality.
 
 ---
+<iframe height="600" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/Sambit-Nanda/embed/XWvoVLK?default-tab=js%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/Sambit-Nanda/pen/XWvoVLK">
+  Untitled</a> by Sambit Nanda (<a href="https://codepen.io/Sambit-Nanda">@Sambit-Nanda</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ### HTML Structure
 
