@@ -13,7 +13,7 @@ We’ve curated a comprehensive list of HR contacts across industries to make yo
 
 
 <div style="text-align: center; margin-top: 20px; display: flex; justify-content: center;">
-    <a href="[https://example.com/download-hr-directory](https://thefrontcoder.github.io/comapny-wise-hr-contacts/)" target="_blank" >
+    <a href="https://thefrontcoder.github.io/comapny-wise-hr-contacts/" target="_blank" >
         <img src="https://github.com/user-attachments/assets/ab19453a-b186-4f0f-bc93-fb107891e41b" alt="Download Button" style="width: 200px;"/>
     </a>
 </div>
@@ -78,7 +78,7 @@ A **Company-Wise HR Contacts** website is an invaluable resource for job seekers
 So, if you’re looking to take control of your job search and connect directly with recruiters, download the **HR Contacts Directory** now and take the first step toward your dream job!
 
 <div style="text-align: center; margin-top: 20px; display: flex; justify-content: center;">
-    <a href="[https://example.com/download-hr-directory](https://thefrontcoder.github.io/comapny-wise-hr-contacts/)" target="_blank" >
+      <a href="https://thefrontcoder.github.io/comapny-wise-hr-contacts/" target="_blank" >
         <img src="https://github.com/user-attachments/assets/ab19453a-b186-4f0f-bc93-fb107891e41b" alt="Download Button" style="width: 200px;"/>
     </a>
 </div>
